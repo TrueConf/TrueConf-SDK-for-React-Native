@@ -343,9 +343,9 @@ ID](https://trueconf.com/docs/server/en/admin/users/#user-id);
 * the ability to receive incoming audio and video calls.
 
 <p align="center">
-  <img src="assets/1.1.png" style="border: 1px solid #D1CCCC;" alt="Android Studio with TrueConf SDK" width="auto" height="600">
-  <img src="assets/1.2.png" style="border: 1px solid #D1CCCC;" alt="Android Studio with TrueConf SDK" width="auto" height="600">
-  <img src="assets/1.3.png" style="border: 1px solid #D1CCCC;" alt="Android Studio with TrueConf SDK" width="auto" height="600">
+  <img src="assets/1.1.png" style="border: 1px solid #D1CCCC;" alt="Android Studio with TrueConf SDK" width="auto" height="500">
+  <img src="assets/1.2.png" style="border: 1px solid #D1CCCC;" alt="Android Studio with TrueConf SDK" width="auto" height="500">
+  <img src="assets/1.3.png" style="border: 1px solid #D1CCCC;" alt="Android Studio with TrueConf SDK" width="auto" height="500">
 </p>
 
 In the **Example1** project, open the **src/screens** folder, which is
@@ -745,9 +745,9 @@ The interface is almost identical to [Example
 the `joinConf(...)` method is used instead of `callTo(...)`.
 
 <p align="center">
-  <img src="assets/4.1.png" style="border: 1px solid #D1CCCC;" alt="Connect with TrueConf SDK" width="auto" height="600">
-  <img src="assets/4.2.png" style="border: 1px solid #D1CCCC;" alt="Login with TrueConf SDK" width="auto" height="600">
-  <img src="assets/4.3.png" style="border: 1px solid #D1CCCC;" alt="Join with TrueConf SDK" width="auto" height="600">
+  <img src="assets/4.1.png" style="border: 1px solid #D1CCCC;" alt="Connect with TrueConf SDK" width="auto" height="500">
+  <img src="assets/4.2.png" style="border: 1px solid #D1CCCC;" alt="Login with TrueConf SDK" width="auto" height="500">
+  <img src="assets/4.3.png" style="border: 1px solid #D1CCCC;" alt="Join with TrueConf SDK" width="auto" height="500">
 </p>
 
 > [!Note] Currently, only connections to pre-existing conferences are supported.
